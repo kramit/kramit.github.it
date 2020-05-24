@@ -1,6 +1,6 @@
 ---
 layout: page
-title: social
+title: Social
 permalink: /social/
 ---
 
