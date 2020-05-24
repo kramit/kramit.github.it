@@ -21,11 +21,12 @@
 title: Kramit blog
 email: mike@michaelwhitehouse.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the personal blog of Michael Whitehouse
+  This is the personal site of Michael Whitehouse
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kramit
 github_username:  kramit
+youtube_username: lpkramit
 
 # Build settings
 theme: minima
