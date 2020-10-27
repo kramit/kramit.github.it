@@ -35,7 +35,7 @@ A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass lite
   
 An image, located within /images
 
-![an image alt text] kramit.github.io/images/jekyll-logo.png "an image title")
+![an image alt text] (kramit.github.io/images/jekyll-logo.png "an image title")
 
 * A bulletted list
 - alternative syntax 1
