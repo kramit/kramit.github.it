@@ -37,6 +37,8 @@ An image, located within /images
 
 ![an image alt text] (kramit.github.io/images/jekyll-logo.png "an image title")
 
+![an image alt text] (kramit.github.io/images/newposttool.png "New post tool")
+
 * A bulletted list
 - alternative syntax 1
 + alternative syntax 2
